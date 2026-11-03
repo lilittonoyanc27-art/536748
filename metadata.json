@@ -1,0 +1,6 @@
+{
+  "name": "Lengua Castellana 1.º ESO — Preparación de Examen (Հայերեն-Español)",
+  "description": "Իսպաներեն լեզվի և գրականության քննության նախապատրաստական ինտերակտիվ հարթակ 1.º ESO (7-րդ դասարան)՝ իսպաներեն-հայերեն ինտերակտիվ թարգմանությամբ, տեսությամբ, թեստերով և քննական տարբերակներով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
